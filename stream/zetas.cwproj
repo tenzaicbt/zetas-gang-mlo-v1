@@ -1,0 +1,28 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_vb_33_critical_0.ymap</Item>
+    <Item>hei_vb_33_long_0.ymap</Item>
+    <Item>hei_vb_33_strm_0.ymap</Item>
+    <Item>hei_vb_rd_critical_2.ymap</Item>
+    <Item>hei_vb_rd_long_0.ymap</Item>
+    <Item>hei_vb_rd_strm_1.ymap</Item>
+    <Item>zetas.ymap</Item>
+    <Item>hei_vb_rd.ymap</Item>
+    <Item>hei_vb_32_strm_0.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>vb_33_interior_vb_33_garage.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
